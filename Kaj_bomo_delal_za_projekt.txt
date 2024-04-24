@@ -1,0 +1,40 @@
+znvcniki za mizo, a2dp
+nek api za to da da ledice disco mode
+nek api WiFi da lahko nastavljas ledice
+
+
+3mode:
+-muska zvocnik + ledice
+{
+-risnaje na spletni starni
+-igre + kontroler -xbox controler
+}
+
+
+
+-Ic2 kartica za shranjevt neki???
+
+
+Jakob:
+-spletna stran
+-kontroler??!?!?!?!?!                   json
+matrica mize+custom simboli/preseti???? json
+
+Amadej:
+-igre
+-funkcije za igre
+
+
+
+
+kaj boma shranvala:
+-score (username?? utf8 32Byte dolzina)
+-zadnje stanje ledic /ce sd kartica (/cel ram)
+
+
+
+
+
+
+libs
+https://www.w3schools.com/colors/colors_picker.asp?colorhex=32CD32
